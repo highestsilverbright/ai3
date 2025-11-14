@@ -68,12 +68,12 @@ st.markdown("---")
 # 각 라벨당 최대 3개씩 표시됩니다.
 # ======================
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
-    # 예)
-    # "짬뽕": {
-    #   "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
-    #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
-    #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
-    # },
+
+     labels[0]: {
+       "texts": ["게는 연갑강 십각목에 속하는 갑각류의 한 종류이다.", "바다와 민물에서 살며 독자적인 생활을 하는 경우가 대부분이나 조개, 해삼 따위에 기생하는 것도 있다.", "다리는 10개에 단단한 외피로 몸을 둘렀다."],
+       "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvpI3CQ7KpQ7DMfxTvXQFtGsraB1igWUV4w&s"],
+       "videos": ["https://www.youtube.com/watch?v=uOK5J_M6kow"]
+     },
 }
 
 # ======================
