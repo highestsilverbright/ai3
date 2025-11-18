@@ -74,6 +74,16 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvpI3CQ7KpQ7DMfxTvXQFtGsraB1igWUV4w&s"],
        "videos": ["https://www.youtube.com/watch?v=uOK5J_M6kow"]
      },
+         labels[1]: {
+       "texts": ["바닷가재는 가재하목의 가시발새우과에 속하는 종이다.", "바다에 서식하며 국내 서식종이 아니다.", "눈에 띄는 집게발과 단단한 등갑을 가지고 있으며, 꼬리는 부채 모양으로 지느러미처럼 펼쳐져 있다."],
+       "images": ["https://i.namu.wiki/i/XFn64O1LmSl2j6Hqb5A8O26VOfmn2oBo4RAfJWP_HCbnrc9tIpgcTk3jsOvuuYVRHOw88R6bTFIPP-oBKaZttQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=gOGZD78a8GU"]
+     },
+         labels[2]: {
+       "texts": ["새우는 좁은 의미로 수상새아목, 생이하목, 해로새우하목, 난바다곤쟁이목을 지칭하며 종종 유영이 가능한 다른 갑각류를 지칭하기도 한다.", "전 세계에 걸쳐 민물과 바닷물에 서식한다.", "몸이 체절로 구성되어 있고 머리와 가슴의 외골격이 융합되어 있는 것이 특징이며 크기는 종마다 매우 다양하다."],
+       "images": ["https://www.lampcook.com/wi_files/food_fish/fish_kor/13_1.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=FkO7E8NYmtI"]
+     },
 }
 
 # ======================
